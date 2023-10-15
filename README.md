@@ -46,7 +46,6 @@ Feel free to contribute to this project by creating issues, suggesting improveme
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgments
-
-This project is a basic template for a Java Dynamic Web Project with Hibernate, Ehcache, JSP, and Servlets, designed for educational and learning purposes. It may require additional configurations, optimizations, and security enhancements for production use.
+## Video
+[Youtube link](https://youtu.be/xAkT0Fhbw2c)
 
